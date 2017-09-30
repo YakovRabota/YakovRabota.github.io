@@ -9,7 +9,6 @@
 [Задание2](https://yakovrabota.github.io/Lesson2/Site/ "PapkaFiles")
 
 
-
 [Задание3](https://yakovrabota.github.io/Lesson3/ "PapkaFiles")
 
 
@@ -17,3 +16,21 @@
 
 
 [Задание5](https://yakovrabota.github.io/Lesson5/DZ5/src/ )
+
+
+[Задание6](https://yakovrabota.github.io/Lesson6/src/ )
+
+
+[Задание7](https://yakovrabota.github.io/Lesson7/src/ )
+
+
+[Задание8](https://yakovrabota.github.io/Lesson8/src/ )
+
+
+[Задание9](https://yakovrabota.github.io/Lesson9/src/ )
+
+
+[Задание10](https://yakovrabota.github.io/Lesson10/ )
+
+
+
