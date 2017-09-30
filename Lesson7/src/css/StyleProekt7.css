@@ -1,0 +1,104 @@
+*	{
+	box-sizing: border-box;
+}
+body{
+	font-family: Tahoma;
+	line-height: 1.5;   /*межстрочный интервал*/
+    color: #333333;   /*цвет букв*/
+}
+.a1-head {
+	margin-top: 80px;
+	text-align: center; 
+	font-size: 24px;/*размер шрифта*/
+}
+.a1-head span {
+	
+	font-weight: 300;  
+	display: block;
+}
+.a1-head strong {
+	font-weight: 900;
+
+}
+.a1{
+	padding: 30px 10%;
+
+}
+.main{
+
+	text-align: center;
+	margin-top: 80px;
+}
+.video, .form {
+	
+	display: inline-block; /*делаем теги строчно блочными*/
+	vertical-align: top;/*вертикальное выравнивание по верху*/
+}
+
+.form{
+	margin-left: 30px;/*отодвигаем форму влево*/
+	text-align: center;
+	border: 5px solid #2727d9;
+	padding: 20px;/*общий отступ по кругу*/
+}
+.form input{
+	display: block;/*сделали их блочными, что бы не шли одно строкой*/
+	font-size: 18px;
+	margin-top: 11px;
+	width: 300px;/*внутри тега форм ширина инпута*/
+	padding: 17px;
+	border: 1px solid #333;/*делаем для импута рамку цветную*/
+	
+}
+.form-header{
+	text-align: center;
+	font-size: 20px;
+	font-weight: 900;/*наполненность, жирность*/
+	margin-bottom: 20px;
+
+}
+.btn  {
+	margin-top: 11px; /*отступ сверху*/
+	font-size: 18px;
+	font-weight: 900;
+    color: #fff;
+    background-color: #2727d9;
+    border: none; /*убираем рамку у кнопки*/
+    width: 300px;
+    height: 60px;
+    display: block;
+    margin: 11px auto;
+}
+.col {
+	display: inline-block;/*Делаем строчно блочными*/
+	text-align: center;
+	margin: 10px 50px;
+}
+.feature-header{
+	margin-top: 150px;
+	text-align: center;
+	text-transform: uppercase;/*текст заглавными буквами*/
+	font-weight: 900;
+	font-size: : 24px;
+}
+.feature{
+	text-align: center;
+	margin: 60px auto;
+}
+.feature-header1{
+	display: inline-block;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 900;
+	margin-top: 100px;
+	margin-bottom: 70px;
+	font-size: 24px;
+
+}
+.col1 {
+	display: inline-block;
+	margin: 25px 25px;
+	
+	
+}
+
