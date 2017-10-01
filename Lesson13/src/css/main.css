@@ -1,0 +1,76 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background: url(E:/Uroki/Урок13ПерфектВерстка/DZ13/src/img/background.png);
+	font-family: arial;
+}
+.section{
+	
+	width: 320px;
+	height: 370px;
+	background: #fbfdfd;
+	border: 1px solid #cfdede;
+	position: absolute;
+	left: 50%;
+	margin-left: -160px;
+	top: 50%;
+	margin-top: -185px;
+
+
+}
+.main-box{
+	margin-top: -3px;
+	margin-left: 30px;
+	text-align: center;
+	height: 25px;
+	width: 148px; 
+	background: #01b3b3;
+	
+	}
+.main-box1{
+	display: inline-block;
+	text-align: center;
+	font-size: 12px;
+	color: #e9f4f4;
+	padding: 5px;
+	}
+	.main-box1 span{  
+		text-transform: uppercase;
+	}
+
+.form{
+margin-left: 28px;
+margin-top: 16px;
+display:inline-block;
+
+}
+
+.form p{
+	font-size: 12px;
+	font-weight: 700; // жирный
+
+}	
+
+.form input{
+	width:263px;
+	padding: 7px;
+	font-size: 12px;
+	background: url(E:/Uroki/Урок13ПерфектВерстка/DZ13/src/img/background.png);	
+margin-bottom: 7px;
+
+}
+.form button{
+	font-size: 16px;
+	font-weight: 700;
+	color:#fff;
+	background: #01c0c0;
+	border:none;
+	width: 260px;
+	height: 45px;
+	margin-top: 28px;
+	margin-left: 2px;
+	text-transform:uppercase;
+
+}
