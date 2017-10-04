@@ -36,6 +36,6 @@
 [Задание13](https://yakovrabota.github.io/Lesson13/src/)
 
 
-[Практика1](https://yakovrabota.github.io/Lesson13/src/)
+[Практика1](YakovRabota.github.io/Praktika1/src/)
 
 
