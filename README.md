@@ -42,3 +42,6 @@
 [Задание14Шрифты](https://yakovrabota.github.io/Lesson14fonts/src/)
 
 
+[Практика2](https://yakovrabota.github.io/Praktika2/src/)
+
+
