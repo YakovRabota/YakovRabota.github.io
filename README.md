@@ -48,3 +48,6 @@
 [Задание14](https://yakovrabota.github.io/Lesson15/src/)
 
 
+[Практика3](https://yakovrabota.github.io/Praktika3/src/)
+
+
