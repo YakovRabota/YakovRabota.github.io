@@ -6,7 +6,7 @@ margin-top: 50px;
 }
 .block{
 	position: fixed;
-	background-image: url("../img/Москва.jpg");
+	background: url(E:/Uroki/Урок16слайдер/DZ16/src/img/Москва.jpg);
 	height: 100%;
 	width: 100%;
 	margin-top: 0px;
