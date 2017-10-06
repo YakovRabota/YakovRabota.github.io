@@ -51,3 +51,6 @@
 [Практика3](https://yakovrabota.github.io/Praktika3/src/)
 
 
+[Задание16слайдер](https://yakovrabota.github.io/Lesson16slider/src/)
+
+
