@@ -54,3 +54,7 @@
 [Задание16слайдер](https://yakovrabota.github.io/Lesson16slider/src/)
 
 
+[Практика4slider](https://yakovrabota.github.io/Praktika4slider/src/)
+
+
+
