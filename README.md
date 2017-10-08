@@ -60,6 +60,9 @@
 [Задание17](https://yakovrabota.github.io/Lesson17okno/src/)
 
 
+[Практика5](https://yakovrabota.github.io/Praktika5/src/)
+
+
 
 
 
