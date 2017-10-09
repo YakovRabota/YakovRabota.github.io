@@ -1,0 +1,46 @@
+
+
+.form{
+	margin:auto;
+	margin-top: 20px;
+	padding: 40px 30px;
+	height: 300px;
+	width: 450px;
+	background: #000000;
+
+}
+
+.tab-forma:hover{
+	
+	
+}
+
+.form input{
+	margin-top: 20px;
+	background: #1c1b1b;
+	border: none;
+	display: block;
+
+}
+
+
+.btn.btn-danger.btn-xs{
+	border: none;
+
+}
+.form-btn{
+
+
+	margin:5% 95%;
+}
+.box{
+	display:inline-block;
+	margin: 10px;
+}
+.box{
+	text-decoration: none;
+}
+.box:hover{
+	color: red;
+	text-decoration: none;
+	}
