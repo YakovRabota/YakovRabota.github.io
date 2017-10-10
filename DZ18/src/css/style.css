@@ -1,46 +1,23 @@
-
-
-.form{
-	margin:auto;
-	margin-top: 20px;
-	padding: 40px 30px;
-	height: 300px;
-	width: 450px;
-	background: #000000;
-
+.main{
+	margin: auto;
+    margin-top: 20px;
+    padding: 40px 30px;
+    height: 300px;
+    width: 450px;
+    background: #000000;
 }
-
-.tab-forma:hover{
-	
-	
-}
-
 .form input{
-	margin-top: 20px;
 	background: #1c1b1b;
 	border: none;
-	display: block;
-
-}
-
-
-.btn.btn-danger.btn-xs{
-	border: none;
-
+	margin-top: 20px;
 }
 .form-btn{
-
-
-	margin:5% 95%;
-}
-.box{
-	display:inline-block;
-	margin: 10px;
-}
-.box{
-	text-decoration: none;
+	margin-left: 98%;
 }
 .box:hover{
 	color: red;
-	text-decoration: none;
-	}
+    text-decoration: none;
+}
+.nav-tabs>li.active>a,.nav-tabs>li.active>a:focus,.nav-tabs>li.active>a:hover{
+	border: 5px solid red;
+}
