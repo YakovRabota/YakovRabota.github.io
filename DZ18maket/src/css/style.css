@@ -23,5 +23,8 @@
  font-size: 13px;
 
 }
-
-
+.panel-default.panel-heading {
+    color: white;
+    background-color: #0bbaf0;
+   
+}
