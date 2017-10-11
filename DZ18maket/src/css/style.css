@@ -1,13 +1,14 @@
 .head{
-	
+	margin: auto;
 	width: 600px;
 }
 .header{
 	text-align: center;
 }
 
-.main{
-	background: #fff url(../img/sloy.jpg) center center no-repeat;
+body{
+	background: #fff url(../img/sloy.jpg) repeat;
+
 }
 .header{
 	font-size: 15px;
@@ -17,14 +18,18 @@
 }
 .header strong{
 	display: block;
+	margin-bottom: 3px;
 	
 }
 .header span{
  font-size: 13px;
 
 }
-.panel-default.panel-heading {
+.panel-default>.panel-heading {
     color: white;
     background-color: #0bbaf0;
    
+}
+.panel-group .panel + .panel{
+	margin-top: 0px;
 }
