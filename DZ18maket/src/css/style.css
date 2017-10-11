@@ -1,0 +1,27 @@
+.head{
+	
+	width: 600px;
+}
+.header{
+	text-align: center;
+}
+
+.main{
+	background: #fff url(../img/sloy.jpg) center center no-repeat;
+}
+.header{
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #0bbaf0;
+	margin-bottom: 20px;
+}
+.header strong{
+	display: block;
+	
+}
+.header span{
+ font-size: 13px;
+
+}
+
+
