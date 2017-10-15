@@ -1,3 +1,7 @@
+body{
+	width: 100%;
+	height: 100%;
+}
 .box{
 	height: 400px;
 	width: 600px;
@@ -35,6 +39,6 @@
 padding: 0 40px;
 color: #6f6d6d;
 }
-.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:hover{
-	border: 5px solid #03a4d9;
+.tab-content:hover{
+	border: 10px solid #03a4d9;
 }
