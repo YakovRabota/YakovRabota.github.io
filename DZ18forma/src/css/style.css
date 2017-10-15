@@ -1,18 +1,25 @@
-body{
+html,body{
 	width: 100%;
 	height: 100%;
 }
-.box{
-	height: 400px;
-	width: 600px;
-	margin: auto;
-	padding: 70px 50px;	
-	border: 1px solid red;
+
+*{
+	box-sizing: border-box;
 }
+.box{
+	position: absolute;
+	width: 600px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%)	;
+	
+}
+
 .main{
 	height: 100%;
 	width: 100%;
 	background: url(../img/fon.jpg);
+	background-size: cover;
 }
 .form-control{
 	padding: 30px 20px ;
@@ -21,24 +28,65 @@ body{
     font-weight: 600;
     font-size: 20px;
 }
-}
-.form{
-	margin: 30px 10px;
 
-}
-.form-group-form a:hover{
+
+.form-group-form a{
 	color: red;
 	text-decoration: none;
 }
 .form-group-form{
-	text-decoration: none;
 	padding: 0 30px;
 	margin-bottom: 50px;
 }
 .checkbox{
-padding: 0 40px;
-color: #6f6d6d;
+    padding: 0 40px;
+    color: #6f6d6d;
 }
-.tab-content:hover{
-	border: 10px solid #03a4d9;
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a, .nav-tabs > li.active > a{
+    border: none;
+	background-color: #03a4d9;
+	border-bottom: 1px solid #03a4d9;
+	color: #ffffff;	
+}
+.form{
+	position: relative;
+}
+
+
+.nav-tabs > li > a{
+	margin-right: 8px;
+	background-color: white;
+	color: black;
+}
+.nav-tabs {
+    border: none;
+    padding-left: 30px;
+    font-size: 24px;
+
+}
+.form-border{
+	border: 20px solid #03a4d9;
+    padding: 65px 34px 30px;
+    background-color: black;
+    border-radius: 10px ;
+}
+
+.btn{
+	position: absolute;
+	left: 83%;
+	bottom: 15px;
+    padding: 10px 30px;
+    font-size: 24px;
+    color: #ffffff;
+}
+.btn-danger{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#830701+0,c01d03+49,c01d03+51,830701+100 */
+background: rgb(131,7,1); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(131,7,1,1) 0%, rgba(192,29,3,1) 49%, rgba(192,29,3,1) 51%, rgba(131,7,1,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(131,7,1,1) 0%,rgba(192,29,3,1) 49%,rgba(192,29,3,1) 51%,rgba(131,7,1,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(131,7,1,1) 0%,rgba(192,29,3,1) 49%,rgba(192,29,3,1) 51%,rgba(131,7,1,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#830701', endColorstr='#830701',GradientType=0 ); /* IE6-9 */
+border: none;
+border-radius: 0;
 }
