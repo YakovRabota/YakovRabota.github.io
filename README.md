@@ -63,6 +63,9 @@
 [Практика5](https://yakovrabota.github.io/Praktika5/src/)
 
 
+[Задание19](https://yakovrabota.github.io/DZ19animforma/src/)
+
+
 
 
 
