@@ -72,6 +72,9 @@
 [Задание20](https://yakovrabota.github.io/DZ20videofon/src/)
 
 
+[Практика8](https://yakovrabota.github.io/Praktika8/src/)
+
+
 
 
 
