@@ -1,0 +1,25 @@
+
+
+.adres{
+     position: absolute;
+	background: red;
+	color: white;;
+	border: 1px solid black;
+	text-align: center;
+	z-index: 1;
+	height: 40rem;
+	padding: 4rem 4rem;
+	font-size: 1.5rem; 
+	
+}
+.contact{
+
+	display: inline-block;
+	padding: 1rem;
+	text-align: center;
+	font-size: 1rem;
+
+}
+.rext{
+	margin-top: 1.5rem;
+}
