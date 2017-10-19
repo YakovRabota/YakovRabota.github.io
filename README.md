@@ -75,6 +75,9 @@
 [Практика8](https://yakovrabota.github.io/Praktika8/src/)
 
 
+[Практика9](https://yakovrabota.github.io/Praktika9/src/)
+
+
 
 
 
