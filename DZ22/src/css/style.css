@@ -1,0 +1,12 @@
+.adres{
+	border: 1px solid black;
+	text-align: center;
+	padding: 5rem 4rem;
+	width: 37rem;
+	background: red;
+	color: white;
+}
+.contact{
+	display: inline-block;
+	background: #d6cdcd;
+}
