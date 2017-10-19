@@ -1,12 +1,15 @@
 .adres{
+
+	background: red;
+	color: white;;
 	border: 1px solid black;
 	text-align: center;
-	padding: 5rem 4rem;
-	width: 37rem;
-	background: red;
-	color: white;
+	
 }
-.contact{
+.main{
 	display: inline-block;
-	background: #d6cdcd;
+	
+}
+.map{
+	
 }
