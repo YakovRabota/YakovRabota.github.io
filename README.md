@@ -81,6 +81,9 @@
 [Задание20](https://yakovrabota.github.io/DZ22.2/src/)
 
 
+[Задание21](YakovRabota.github.io/DZ21.1Paralax/)
+
+
 
 
 
