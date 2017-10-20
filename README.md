@@ -84,6 +84,9 @@
 [Задание21](YakovRabota.github.io/DZ21.1Paralax/)
 
 
+[Практика10](https://yakovrabota.github.io/Praktika10/src/)
+
+
 
 
 
