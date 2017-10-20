@@ -444,6 +444,12 @@ section {
   }
 }
 @media (max-width: 767px) {
+  .feedback {
+    padding: 0;
+  }
+  .all-inclusive {
+    padding: 0;
+  }
   .main {
     background-position: top left;
   }
@@ -460,17 +466,14 @@ section {
     right: 0rem;
   }
 }
-@media (max-width: 320px){
-     .all-inclusive{
-      padding: 0;
-     }
-     .feedback-slider{
-      padding: 0;
-     }
-     .feedback-prev-btn {
-    left: -4rem;
-}
-     .feedback-next-btn {
-    right: -4rem;
-}
+@media (max-width: 320px) {
+  .all-inclusive {
+    padding: 0;
+  }
+  .feedback {
+    padding: 0 ;
+  }
+  .problems {
+    padding: 0;
+  }
 }
